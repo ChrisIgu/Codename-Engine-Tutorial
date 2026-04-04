@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Escenarios (XML).md",
+                "file": "5. Lista de Funciones.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3. Escenarios (XML)"
+              "title": "5. Lista de Funciones"
             }
           }
         ]
@@ -185,12 +185,12 @@
   },
   "active": "6e058eaa2e918fe3",
   "lastOpenFiles": [
+    "4. Variables.md",
+    "3. Escenarios (XML).md",
     "5. Lista de Funciones.md",
     "5.5 Lista de blends.md",
-    "4. Variables.md",
     "7. IFs & Fors ( incompleto ).md",
     "6. Escenarios (HX) ( incompleto ).md",
-    "3. Escenarios (XML).md",
     "1. Estructura de las carpetas ( incompleto ).md",
     "9. FlxText ( incompleto ).md",
     "2. Editores ( incompleto ).md",
