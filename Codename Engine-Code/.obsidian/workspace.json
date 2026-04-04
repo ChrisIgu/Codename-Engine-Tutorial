@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Lista de Funciones.md",
+                "file": "5.5 Lista de blends ( Incompleta ).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5. Lista de Funciones"
+              "title": "5.5 Lista de blends ( Incompleta )"
             }
           }
         ]
@@ -185,20 +185,20 @@
   },
   "active": "6e058eaa2e918fe3",
   "lastOpenFiles": [
-    "4. Variables.md",
     "3. Escenarios (XML).md",
     "5. Lista de Funciones.md",
-    "5.5 Lista de blends.md",
-    "7. IFs & Fors ( incompleto ).md",
+    "5.5 Lista de blends ( Incompleta ).md",
     "6. Escenarios (HX) ( incompleto ).md",
-    "1. Estructura de las carpetas ( incompleto ).md",
-    "9. FlxText ( incompleto ).md",
-    "2. Editores ( incompleto ).md",
-    "0. Codename Engine.md",
     "12. Modificar y Mover Notas ( incompleto ).md",
     "11. Creación de cámaras ( incompleto ).md",
     "10. FlxTween ( incompleto ).md",
+    "9. FlxText ( incompleto ).md",
     "8. CurStep & CurBeat ( incompleto ).md",
+    "7. IFs & Fors ( incompleto ).md",
+    "4. Variables.md",
+    "2. Editores ( incompleto ).md",
+    "1. Estructura de las carpetas ( incompleto ).md",
+    "0. Codename Engine.md",
     "images/Pasted image 20260403191631.png",
     "images/Pasted image 20260403192304.png",
     "images/Pasted image 20260403192101.png",
